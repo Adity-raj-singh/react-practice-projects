@@ -1,0 +1,32 @@
+#logo-wrapper {
+    width: '100%';
+    background-color: orange;
+    padding: 0.1px;
+}
+
+#form-wrapper {
+    width: '100%';
+    background-color: orangered;
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#list-wrapper {
+    width: '100%';
+    background-color: brown;
+    padding: 190px;
+    display: flex;
+}
+
+#footer-wrapper {
+    width: '100%';
+    background-color: lightblue;
+    padding: 15px;
+}
+
+#footer-starter {
+    background-color: lightblue;
+    padding: 15px;
+    margin-top: 0px;
+}

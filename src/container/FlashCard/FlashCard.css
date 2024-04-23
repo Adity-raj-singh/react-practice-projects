@@ -1,0 +1,21 @@
+.cardWrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.questionWrapper {
+    width: 25%;
+    padding: 30px;
+    background-color: skyblue;
+    margin: 25px;
+    border-radius: 8px;
+}
+
+.answerWrapper {
+    width: 25%;
+    padding: 30px;
+    background-color: red;
+    margin: 25px;
+    border-radius: 8px;
+}

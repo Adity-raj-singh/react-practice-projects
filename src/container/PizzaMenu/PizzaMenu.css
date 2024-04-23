@@ -1,0 +1,90 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.headerWrap {
+    font-size: 30px;
+    color: #edc84b;
+    letter-spacing: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashStyle {
+    margin-right: 20px;
+    width: 4rem;
+    height: 3px;
+    background-color: #edc84b;
+}
+
+.dashStyle1 {
+    width: 4rem;
+    height: 3px;
+    background-color: #edc84b;
+    margin-left: 20px;
+}
+
+.menuWrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.paraWrapper {
+    width: 100%;
+    font-size: 20px;
+}
+
+.bodyWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.soldoutclass {
+    color: grey;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.soldOutImage {
+    color: grey;
+    filter: grayscale();
+    opacity: 0.8;
+    width: 100%;
+}
+
+.itemStyle {
+    width: 100%;
+}
+
+.footer {
+    background-color: yellow;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+
+
+.contentStyle {
+    width: 100%;
+    translate: 80px -100px;
+}
+
+.contentStyle1 {
+    width: 100%;
+    translate: 80px -100px;
+}
+
+.btn {
+    padding: 5px 20px;
+    background-color: yellow;
+}

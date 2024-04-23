@@ -1,0 +1,15 @@
+.accordionWrapper {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 30px 0px;
+    box-shadow: 0px 0px 10px green;
+}
+
+.accBodyWrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.numStyle {
+    transform:translate(230px, 0px)
+}

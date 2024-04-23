@@ -1,0 +1,48 @@
+#steps-wrapper {
+    background-color: #e7e7e7;
+    padding: 70px 40px;
+    width: 30%;
+    margin: 100px auto;
+    border-radius: 5px;
+}
+
+.numbers {
+    display: flex;
+    justify-content: space-between;
+    transform: translate(0px, -30px);
+    width: 100%;
+}
+
+.num {
+    background-color: #7950f2;
+    color: white;
+    border-radius: 50%;
+    padding: 7px 15px;
+}
+
+.num-notactive {
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    padding: 7px 15px;
+}
+
+#btn-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.btn-style {
+    background-color: #7950f2;
+    color: white;
+    border-radius: 15px;
+    padding: 7px 12px;
+    border: none;
+}
+
+.btn {
+    font-size: 22px;
+    transform: translate(215px, 50px);
+    background-color: #e7e7e7;
+}

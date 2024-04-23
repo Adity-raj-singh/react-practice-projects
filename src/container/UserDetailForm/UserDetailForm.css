@@ -1,0 +1,52 @@
+#formWrapper {
+    display: inline-block;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.formStyle {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 15px;
+    margin-right: auto;
+}
+
+.labelText {
+    transform: translate(0px, -10px);
+}
+
+.inputStyle {
+    padding: 5px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+#btnSubmit {
+    background-color: lightblue;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 10px 0px 0px 0px;
+}
+
+.form2 {
+    transform: translate(10px, -70px);
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px 50px 10px 35px !important;
+    margin: 10px;
+}
+
+.searchWrapper {
+    transform: translateY(-350px);
+}
+
+.optionGrp {
+    margin-left: 10px;
+}
+
+.editBtn {
+    border: none !important;
+    background: none !important;
+    transform: translate(70px, -5px) !important;
+}
